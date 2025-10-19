@@ -95,6 +95,8 @@ main > div:last-of-type {
 main > div:last-of-type p {
     margin-bottom: 1.2rem;
     text-indent: 2rem;
+    font-weight: normal;
+    text-decoration: none;
 }
 
 /* Premier paragraphe (salutation) */
